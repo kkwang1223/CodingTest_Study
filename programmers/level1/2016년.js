@@ -44,10 +44,6 @@ function solution2(a = input.case1.a, b = input.case1.b) {
   return new Date(`2016-${a}-${b}`).toString().slice(0, 3).toUpperCase();
 }
 
-function solution2(a = input.case1.a, b = input.case1.b) {
-  return new Date(`2016-${a}-${b}`).toString().slice(0, 3).toUpperCase();
-}
-
 function solution3(a = input.case1.a, b = input.case1.b) {
   const month = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
   const day = ['FRI', 'SAT', 'SUN', 'MON', 'TUE', 'WED', 'THU'];

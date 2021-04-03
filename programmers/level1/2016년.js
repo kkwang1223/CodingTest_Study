@@ -21,13 +21,13 @@ const input = {
     a: 1,
     b: 1,
   },
-}
+};
 
 /** 테스트 케이스 출력 */
 const output = {
   case1: 'TUE',
   case2: 'FRI',
-}
+};
 
 /**
  * 풀이 구현

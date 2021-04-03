@@ -5,12 +5,12 @@
 /** 테스트 케이스 입력 */
 const input = {
   case1: null,
-}
+};
 
 /** 테스트 케이스 출력 */
 const output = {
   case1: null,
-}
+};
 
 /**
  * 풀이 구현
